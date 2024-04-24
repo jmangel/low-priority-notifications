@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# To copy this template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
 
 ## Available Scripts
 
