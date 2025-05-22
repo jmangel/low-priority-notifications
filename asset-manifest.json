@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/low-priority-notifications/static/css/main.5ea4b4aa.css",
-    "main.js": "/low-priority-notifications/static/js/main.4fd56f60.js",
+    "main.js": "/low-priority-notifications/static/js/main.f792daa2.js",
     "static/js/748.69a03110.chunk.js": "/low-priority-notifications/static/js/748.69a03110.chunk.js",
     "index.html": "/low-priority-notifications/index.html"
   },
   "entrypoints": [
     "static/css/main.5ea4b4aa.css",
-    "static/js/main.4fd56f60.js"
+    "static/js/main.f792daa2.js"
   ]
 }
